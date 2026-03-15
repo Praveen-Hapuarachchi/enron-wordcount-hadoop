@@ -1,0 +1,10 @@
+enron	7439017
+com	6881481
+ect	1200578
+recipients	1130964
+content	1059866
+subject	965083
+message	764641
+bcc	648929
+date	622118
+hou	596021
